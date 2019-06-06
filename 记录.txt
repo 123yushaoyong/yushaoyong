@@ -1,0 +1,32 @@
+开头部分设置：<header></header>
+标题：<h>标签，本文采用了<h1>和<h4>
+表单创建：<form> </form>标签
+表单插入文本：<label> </label>标签
+章节：<article> </article>标签包裹
+有序列表：<ol> <ol>标签
+文本框：<input type="text"/>
+文本框大小设置：<textarea cols="20" rows="5"> </textarea>
+选项输入框：<input type="radio"/>和<input type="checkbox"/>
+行距设置：<div style="line-height:23px"> </div>
+
+
+
+<li》HTML中，换行使用的标签是</li> ：设置类似选择题的题目
+ 1.HTML中，换行使用的标签是（）-------例子
+
+提交按钮 (submit button)
+ type="checkbox  多选
+type="radio      单选
+<!--注释内容-->
+<meta>---
+<stript>--JS
+<div>----布局
+<span>---
+<meta charset="gbk"/>  <meta charset="UTF-8"/>
+编码：gbk()--中文；UTF-8----万国码
+
+./当前
+../上级目录
+/根目录
+
+
